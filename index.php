@@ -1,4 +1,2 @@
 <?php
-echo time();
-
-echo 1;
+ooo
